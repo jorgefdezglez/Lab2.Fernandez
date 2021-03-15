@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2.Fernandez</string>
+    <string name="botfragment">Bot Fragment</string>
+    <string name="topfragment">Top Fragment</string>
+    <string name="botonA">Boton A</string>
+    <string name="botonB">Boton B</string>
+    <string name="botonC">Boton C</string>
+</resources>
